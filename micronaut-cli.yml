@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.fhlcrab32
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, data, data-mongodb, gradle, graphql, h2, http-client, jackson-databind, jdbc-hikari, kotest, kotlin, kotlin-application, kotlin-build, kotlin-extension-functions, log4j2, micronaut-build, netty-server, readme, security-annotations, security-oauth2, serialization-bson, shade, yaml]
